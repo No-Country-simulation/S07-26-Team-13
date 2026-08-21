@@ -3,7 +3,7 @@
 ## Resumen Ejecutivo
 Este proyecto es una solución analítica integral diseñada para conectar el rendimiento de campañas de marketing B2B con el impacto financiero directo. A través de la simulación de parámetros de infraestructura (Capacidad Varada / MW), la herramienta transforma interacciones de marketing en un "Costo de la Inacción" monetizado, permitiendo al equipo comercial priorizar leads de alto valor.
 
-[]([https://github.com/Marian720](https://github.com/No-Country-simulation/S07-26-Team-13/blob/main/Proyecto/Data%20Analyst/img/img-readme.png?raw=true)/)
+[](https://github.com/No-Country-simulation/S07-26-Team-13/blob/main/Proyecto/Data%20Analyst/img/img-readme.png?raw=true)
 
 * **Datos y Desarrollo:** Python, [Jupyter Notebook (Ver Código)](https://github.com/No-Country-simulation/S07-26-Team-13/blob/main/Proyecto/Data%20Analyst/img/img-readme.png?raw=true)
 
