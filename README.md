@@ -8,6 +8,11 @@ Este proyecto no es solo un tablero de visualización, sino el núcleo de una ca
 *	El Gancho (Lead Magnet): Utilizar la "Calculadora de Capacidad Varada" como una herramienta de valor gratuito. A cambio de simular sus parámetros, el usuario recibe un reporte exclusivo.
 *	Diseño de Entregables: Creación de los activos visuales y reportes de la campaña utilizando Canva e Illustrator, garantizando una identidad de marca sólida y atractiva para el segmento corporativo.
 *	Calificación Automática: La interacción con la campaña (desde la impresión del anuncio hasta el uso de la calculadora) alimenta directamente el embudo de conversión, transformando visitantes anónimos en Marketing Qualified Leads (MQLs) listos para ser priorizados por el equipo comercial en el dashboard.
+
+[🎯Audiencia](https://canva.link/60cdtbjlgu5mjl2)  
+[🧩​ Benchmark competitivo](https://canva.link/0jgqttzq9mrylih)  
+[♟️​ Plan de contenidos y assets de campaña](https://canva.link/9klm093ua29z2ml)  
+[💌​​ Embudo y correos](https://canva.link/wqdc1d252ztwlt0)      
  
 ## Arquitectura de Datos y Stack Tecnológico
 
@@ -18,6 +23,9 @@ El flujo de datos fue diseñado para ser automatizado y escalable, enfocando los
 *	Motor Analítico: Procesamiento y modelado de datos utilizando Python y BigQuery.
 *	Visualización Estratégica: Tableau Public para el desarrollo de un producto de datos interactivo, con técnicas avanzadas de UI/UX (filtros aislados por panel, control de tooltips interactivos).
 *	Diseño de Entregables: Canva e Illustrator para la identidad visual de los reportes.
+
+
+[🤖​ Flujo de automatización](https://drive.google.com/drive/folders/1XBMf_iE_nETyeX0kYMnFVgFQUPl8jfNj?usp=sharing) 
  
 ## La Solución Analítica (Paneles del Dashboard)
 
@@ -33,9 +41,7 @@ El producto final se divide en tres enfoques estratégicos de negocio:
 *	Matriz de calor que cruza Tamaño de Empresa y Capacidad Varada.
 *	Listado de Hot Leads interactivo filtrable por Cargo Usuario, diseñado específicamente para que los fundadores o el equipo de ventas sepan a quién contactar primero.
  
- 
- 
-
+[​📊 Dashboard](https://public.tableau.com/views/Campana-B2B-DataCenters-F/Panel1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
 
 # S07-26-Team-13
