@@ -5,19 +5,19 @@ Este proyecto es una solución analítica integral diseñada para conectar el re
  
 ## Estrategia de Marketing y Generación de Leads
 Este proyecto no es solo un tablero de visualización, sino el núcleo de una campaña de marketing B2B (Lead Magnet). La estrategia consistió en:
-•	El Gancho (Lead Magnet): Utilizar la "Calculadora de Capacidad Varada" como una herramienta de valor gratuito. A cambio de simular sus parámetros, el usuario recibe un reporte exclusivo.
-•	Diseño de Entregables: Creación de los activos visuales y reportes de la campaña utilizando Canva e Illustrator, garantizando una identidad de marca sólida y atractiva para el segmento corporativo.
-•	Calificación Automática: La interacción con la campaña (desde la impresión del anuncio hasta el uso de la calculadora) alimenta directamente el embudo de conversión, transformando visitantes anónimos en Marketing Qualified Leads (MQLs) listos para ser priorizados por el equipo comercial en el dashboard.
+*	El Gancho (Lead Magnet): Utilizar la "Calculadora de Capacidad Varada" como una herramienta de valor gratuito. A cambio de simular sus parámetros, el usuario recibe un reporte exclusivo.
+*	Diseño de Entregables: Creación de los activos visuales y reportes de la campaña utilizando Canva e Illustrator, garantizando una identidad de marca sólida y atractiva para el segmento corporativo.
+*	Calificación Automática: La interacción con la campaña (desde la impresión del anuncio hasta el uso de la calculadora) alimenta directamente el embudo de conversión, transformando visitantes anónimos en Marketing Qualified Leads (MQLs) listos para ser priorizados por el equipo comercial en el dashboard.
  
 ## Arquitectura de Datos y Stack Tecnológico
 
 El flujo de datos fue diseñado para ser automatizado y escalable, enfocando los esfuerzos en el análisis y la toma de decisiones:
 
-•	Captura de Datos: Interfaz interactiva construida con Streamlit para la simulación de parámetros por parte del usuario.
-•	Automatización (Pipeline): Orquestación con Make para procesar los inputs, registrar los datos históricos en Google Sheets y disparar correos transaccionales vía Gmail.
-•	Motor Analítico: Procesamiento y modelado de datos utilizando Python y BigQuery.
-•	Visualización Estratégica: Tableau Public para el desarrollo de un producto de datos interactivo, con técnicas avanzadas de UI/UX (filtros aislados por panel, control de tooltips interactivos).
-•	Diseño de Entregables: Canva e Illustrator para la identidad visual de los reportes.
+*	Captura de Datos: Interfaz interactiva construida con Streamlit para la simulación de parámetros por parte del usuario.
+*	Automatización (Pipeline): Orquestación con Make para procesar los inputs, registrar los datos históricos en Google Sheets y disparar correos transaccionales vía Gmail.
+*	Motor Analítico: Procesamiento y modelado de datos utilizando Python y BigQuery.
+*	Visualización Estratégica: Tableau Public para el desarrollo de un producto de datos interactivo, con técnicas avanzadas de UI/UX (filtros aislados por panel, control de tooltips interactivos).
+*	Diseño de Entregables: Canva e Illustrator para la identidad visual de los reportes.
  
 ## La Solución Analítica (Paneles del Dashboard)
 
