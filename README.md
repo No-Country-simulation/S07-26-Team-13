@@ -5,7 +5,7 @@ Este proyecto es una solución analítica integral diseñada para conectar el re
 
 []([https://github.com/Marian720](https://github.com/No-Country-simulation/S07-26-Team-13/blob/main/Proyecto/Data%20Analyst/img/img-readme.png?raw=true)/)
 
-* **Datos y Desarrollo:** Python, [Jupyter Notebook (Ver Código)](https://github.com/Marian720/Simulaci-n-No-Country-S11-25-Equipo-66-BI/blob/main/Data%20analysis/Notebooks/limpieza%20inicial.ipynb)
+* **Datos y Desarrollo:** Python, [Jupyter Notebook (Ver Código)](https://github.com/No-Country-simulation/S07-26-Team-13/blob/main/Proyecto/Data%20Analyst/img/img-readme.png?raw=true)
 
 
 ## Estrategia de Marketing y Generación de Leads
