@@ -5,8 +5,6 @@ Este proyecto es una solución analítica integral diseñada para conectar el re
 
 ![Diagrama de la campaña](https://github.com/No-Country-simulation/S07-26-Team-13/blob/main/Proyecto/Data%20Analyst/img/img-readme.png?raw=true)
 
-* **Datos y Desarrollo:** Python, [Jupyter Notebook (Ver Código)](https://github.com/No-Country-simulation/S07-26-Team-13/blob/main/Proyecto/Data%20Analyst/img/img-readme.png?raw=true)
-
 
 ## Estrategia de Marketing y Generación de Leads
 Este proyecto no es solo un tablero de visualización, sino el núcleo de una campaña de marketing B2B (Lead Magnet). La estrategia consistió en:
@@ -29,6 +27,7 @@ El flujo de datos fue diseñado para ser automatizado y escalable, enfocando los
 *	Visualización Estratégica: Tableau Public para el desarrollo de un producto de datos interactivo, con técnicas avanzadas de UI/UX (filtros aislados por panel, control de tooltips interactivos).
 *	Diseño de Entregables: Canva e Illustrator para la identidad visual de los reportes.
 
+![flujo](https://github.com/No-Country-simulation/S07-26-Team-13/blob/main/Proyecto/Data%20Analyst/img/flujo-readme.JPG?raw=true)
 
 [🤖​ Flujo de automatización](https://drive.google.com/drive/folders/1XBMf_iE_nETyeX0kYMnFVgFQUPl8jfNj?usp=sharing) 
  
@@ -45,6 +44,9 @@ El producto final se divide en tres enfoques estratégicos de negocio:
 3.	Calificación de Leads (Priorización Comercial):
 *	Matriz de calor que cruza Tamaño de Empresa y Capacidad Varada.
 *	Listado de Hot Leads interactivo filtrable por Cargo Usuario, diseñado específicamente para que los fundadores o el equipo de ventas sepan a quién contactar primero.
+
+![Tablero](https://github.com/No-Country-simulation/S07-26-Team-13/blob/main/Proyecto/Data%20Analyst/img/tablero-readme.JPG?raw=true)
+
  
 [​📊 Dashboard](https://public.tableau.com/views/Campana-B2B-DataCenters-F/Panel1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
