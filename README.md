@@ -55,11 +55,11 @@ El producto final se divide en tres enfoques estratégicos de negocio:
 
 Este proyecto fue desarrollado por un equipo multidisciplinario que combina análisis de datos, marketing B2B, automatización de procesos y diseño visual. Trabajamos de forma colaborativa para construir un producto de datos escalable y orientado a la toma de decisiones financieras, integrando tecnologías analíticas modernas y flujos automatizados para la generación de leads.
 
-* María Gabriela Reyes Moreira	  Graphic Designer
-* Mariana Conte	                 Marketing Specialist
-* Mauro Conte	                   Marketing Specialist
-* Adrián Rangel Armenteros	      Data analyst
-* Marianela Pi                  	Data analyst
+* María Gabriela Reyes Moreira	 --  Graphic Designer
+* Mariana Conte	                --  Marketing Specialist
+* Mauro Conte	                  --  Marketing Specialist
+* Adrián Rangel Armenteros	     --  Data analyst
+* Marianela Pi                  -- 	Data analyst
 
 
 ## Stack tecnológico
