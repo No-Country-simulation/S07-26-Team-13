@@ -30,6 +30,9 @@ El flujo de datos fue diseñado para ser automatizado y escalable, enfocando los
 ![flujo](https://github.com/No-Country-simulation/S07-26-Team-13/blob/main/Proyecto/Data%20Analyst/img/flujo-readme.JPG?raw=true)
 
 [🤖​ Flujo de automatización](https://drive.google.com/drive/folders/1XBMf_iE_nETyeX0kYMnFVgFQUPl8jfNj?usp=sharing) 
+[Simulador](https://simulador-capacidad-varada.streamlit.app/) 
+
+
  
 ## La Solución Analítica (Paneles del Dashboard)
 
