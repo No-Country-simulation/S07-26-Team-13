@@ -24,14 +24,14 @@ El flujo de datos fue diseñado para ser automatizado y escalable, enfocando los
 El producto final se divide en tres enfoques estratégicos de negocio:
 
 1.	Embudo de Conversión (Rendimiento de Marketing):
-o	Análisis end-to-end de impresiones a conversión final.
-o	Filtros interactivos por Nombre Pieza para aislar el rendimiento de campañas específicas (Benchmark, Calculadora, Reportes).
+*	Análisis end-to-end de impresiones a conversión final.
+*	Filtros interactivos por Nombre Pieza para aislar el rendimiento de campañas específicas (Benchmark, Calculadora, Reportes).
 2.	Costo de la Inacción (Modelado Financiero):
-o	Proyección a 5 años de la pérdida de capital por capacidad varada.
-o	Segmentación dinámica por Tipo de Empresa (Colocation, Hyperscaler, etc.) comparando escenarios conservadores vs. tarifarios proyectados.
+*	Proyección a 5 años de la pérdida de capital por capacidad varada.
+*	Segmentación dinámica por Tipo de Empresa (Colocation, Hyperscaler, etc.) comparando escenarios conservadores vs. tarifarios proyectados.
 3.	Calificación de Leads (Priorización Comercial):
-o	Matriz de calor que cruza Tamaño de Empresa y Capacidad Varada.
-o	Listado de Hot Leads interactivo filtrable por Cargo Usuario, diseñado específicamente para que los fundadores o el equipo de ventas sepan a quién contactar primero.
+*	Matriz de calor que cruza Tamaño de Empresa y Capacidad Varada.
+*	Listado de Hot Leads interactivo filtrable por Cargo Usuario, diseñado específicamente para que los fundadores o el equipo de ventas sepan a quién contactar primero.
  
  
  
