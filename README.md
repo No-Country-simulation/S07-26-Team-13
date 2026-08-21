@@ -2,6 +2,8 @@
 
 ## Resumen Ejecutivo
 Este proyecto es una solución analítica integral diseñada para conectar el rendimiento de campañas de marketing B2B con el impacto financiero directo. A través de la simulación de parámetros de infraestructura (Capacidad Varada / MW), la herramienta transforma interacciones de marketing en un "Costo de la Inacción" monetizado, permitiendo al equipo comercial priorizar leads de alto valor.
+
+
  
 ## Estrategia de Marketing y Generación de Leads
 Este proyecto no es solo un tablero de visualización, sino el núcleo de una campaña de marketing B2B (Lead Magnet). La estrategia consistió en:
