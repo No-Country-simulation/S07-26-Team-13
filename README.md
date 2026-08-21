@@ -51,17 +51,15 @@ El producto final se divide en tres enfoques estratégicos de negocio:
 [​📊 Dashboard](https://public.tableau.com/views/Campana-B2B-DataCenters-F/Panel1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
 
-## El equipo
+## El equipo - S07-26-Team-13
 
 Este proyecto fue desarrollado por un equipo multidisciplinario que combina análisis de datos, marketing B2B, automatización de procesos y diseño visual. Trabajamos de forma colaborativa para construir un producto de datos escalable y orientado a la toma de decisiones financieras, integrando tecnologías analíticas modernas y flujos automatizados para la generación de leads.
 
-María Gabriela Reyes Moreira	  Graphic Designer
-Mariana Conte	                 Marketing Specialist
-Mauro Conte	                   Marketing Specialist
-Adrián Rangel Armenteros	      Data analyst
-Marianela Pi                  	Data analyst
-
-<img width="509" height="131" alt="image" src="https://github.com/user-attachments/assets/665cac90-7043-4f9f-a76e-af043683405b" />
+* María Gabriela Reyes Moreira	  Graphic Designer
+* Mariana Conte	                 Marketing Specialist
+* Mauro Conte	                   Marketing Specialist
+* Adrián Rangel Armenteros	      Data analyst
+* Marianela Pi                  	Data analyst
 
 
 ## Stack tecnológico
@@ -93,5 +91,5 @@ Marianela Pi                  	Data analyst
 ![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
 ![Gemini](https://img.shields.io/badge/Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white)
-# S07-26-Team-13
+
 
