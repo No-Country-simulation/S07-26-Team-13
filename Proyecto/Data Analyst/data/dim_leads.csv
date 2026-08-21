@@ -1,0 +1,121 @@
+id_lead,cargo_usuario,industria,tipo_empresa,tamano_empresa
+L1105,CTO,Cloud,Colocation,1000+
+L1043,CTO,Financial,Colocation,500-1000
+L1073,CTO,Telecommunications,Colocation,500-1000
+L1061,CTO,Cloud,Colocation,1000+
+L1046,CTO,Cloud,Colocation,500-1000
+L1006,CTO,Cloud,Colocation,1000+
+L1071,CTO,Telecommunications,Colocation,500-1000
+L1099,CTO,Telecommunications,Colocation,500-1000
+L1017,CTO,Financial,Colocation,500-1000
+L1016,CTO,Cloud,Colocation,100-500
+L1065,CTO,Cloud,Colocation,1000+
+L1052,CTO,Cloud,Colocation,1000+
+L1066,CTO,Telecommunications,Colocation,500-1000
+L1116,CTO,Financial,Colocation,500-1000
+L1055,CTO,Financial,Colocation,100-500
+L1072,CTO,Cloud,Colocation,100-500
+L1118,CTO,Telecommunications,Colocation,1000+
+L1111,CTO,Telecommunications,Colocation,1000+
+L1077,CTO,Cloud,Colocation,500-1000
+L1023,Facility Manager,Financial,Colocation,100-500
+L1083,Facility Manager,Telecommunications,Colocation,100-500
+L1036,Facility Manager,Financial,Colocation,1000+
+L1094,Infrastructure Director,Telecommunications,Colocation,500-1000
+L1104,Infrastructure Director,Cloud,Colocation,500-1000
+L1045,Infrastructure Director,Telecommunications,Colocation,1000+
+L1070,Infrastructure Director,Financial,Colocation,100-500
+L1002,Infrastructure Director,Cloud,Colocation,1000+
+L1040,Infrastructure Director,Cloud,Colocation,1000+
+L1021,Infrastructure Director,Telecommunications,Colocation,1000+
+L1078,No Especificado,Telecommunications,Colocation,500-1000
+L1081,No Especificado,Financial,Colocation,1000+
+L1058,No Especificado,Cloud,Colocation,100-500
+L1053,No Especificado,Financial,Colocation,500-1000
+L1069,No Especificado,Telecommunications,Colocation,100-500
+L1095,No Especificado,Cloud,Colocation,1000+
+L1010,Operations Director,Cloud,Colocation,500-1000
+L1112,Operations Director,Cloud,Colocation,500-1000
+L1029,Operations Director,Cloud,Colocation,500-1000
+L1019,Operations Director,Telecommunications,Colocation,500-1000
+L1001,Operations Director,Cloud,Colocation,100-500
+L1093,Operations Director,Telecommunications,Colocation,1000+
+L1034,Operations Director,Cloud,Colocation,1000+
+L1031,Operations Director,Cloud,Colocation,1000+
+L1042,Operations Director,Telecommunications,Colocation,500-1000
+L1102,Operations Director,Financial,Colocation,1000+
+L1054,CTO,Financial,Edge,100-500
+L1027,CTO,Telecommunications,Edge,500-1000
+L1048,CTO,Telecommunications,Edge,100-500
+L1013,CTO,Financial,Edge,1000+
+L1051,CTO,Financial,Edge,100-500
+L1079,CTO,Cloud,Edge,100-500
+L1011,CTO,Cloud,Edge,100-500
+L1113,CTO,Financial,Edge,1000+
+L1024,Facility Manager,Telecommunications,Edge,500-1000
+L1074,Facility Manager,Telecommunications,Edge,100-500
+L1009,Facility Manager,Financial,Edge,500-1000
+L1082,Infrastructure Director,Financial,Edge,100-500
+L1057,Infrastructure Director,Telecommunications,Edge,1000+
+L1089,Infrastructure Director,Cloud,Edge,100-500
+L1056,Infrastructure Director,Telecommunications,Edge,1000+
+L1007,Infrastructure Director,Financial,Edge,100-500
+L1038,No Especificado,Financial,Edge,1000+
+L1030,No Especificado,Financial,Edge,100-500
+L1080,No Especificado,Telecommunications,Edge,500-1000
+L1064,Operations Director,Financial,Edge,100-500
+L1032,CTO,Financial,Enterprise,1000+
+L1100,CTO,Cloud,Enterprise,500-1000
+L1049,CTO,Telecommunications,Enterprise,100-500
+L1106,Facility Manager,Telecommunications,Enterprise,1000+
+L1117,Facility Manager,Cloud,Enterprise,500-1000
+L1020,Facility Manager,Telecommunications,Enterprise,100-500
+L1107,Facility Manager,Financial,Enterprise,100-500
+L1068,Infrastructure Director,Telecommunications,Enterprise,500-1000
+L1110,Infrastructure Director,Telecommunications,Enterprise,100-500
+L1108,Infrastructure Director,Financial,Enterprise,1000+
+L1008,No Especificado,Financial,Enterprise,100-500
+L1041,Operations Director,Financial,Enterprise,100-500
+L1096,Operations Director,Telecommunications,Enterprise,100-500
+L1114,CTO,Cloud,Hyperscaler,1000+
+L1018,CTO,Cloud,Hyperscaler,500-1000
+L1059,CTO,Telecommunications,Hyperscaler,1000+
+L1062,CTO,Cloud,Hyperscaler,100-500
+L1014,CTO,Telecommunications,Hyperscaler,1000+
+L1004,CTO,Cloud,Hyperscaler,100-500
+L1091,CTO,Financial,Hyperscaler,500-1000
+L1115,Facility Manager,Financial,Hyperscaler,500-1000
+L1119,Facility Manager,Financial,Hyperscaler,500-1000
+L1000,Infrastructure Director,Cloud,Hyperscaler,1000+
+L1026,Infrastructure Director,Telecommunications,Hyperscaler,100-500
+L1085,Infrastructure Director,Telecommunications,Hyperscaler,100-500
+L1035,No Especificado,Cloud,Hyperscaler,100-500
+L1109,No Especificado,Telecommunications,Hyperscaler,100-500
+L1037,No Especificado,Financial,Hyperscaler,500-1000
+L1067,No Especificado,Cloud,Hyperscaler,100-500
+L1039,Operations Director,Financial,Hyperscaler,1000+
+L1044,CTO,Cloud,No Especificado,100-500
+L1086,CTO,Telecommunications,No Especificado,1000+
+L1050,CTO,Cloud,No Especificado,100-500
+L1076,CTO,Financial,No Especificado,100-500
+L1103,CTO,Financial,No Especificado,500-1000
+L1097,CTO,Telecommunications,No Especificado,1000+
+L1033,CTO,Telecommunications,No Especificado,500-1000
+L1003,CTO,Cloud,No Especificado,500-1000
+L1028,CTO,Cloud,No Especificado,1000+
+L1090,CTO,Cloud,No Especificado,1000+
+L1060,CTO,Cloud,No Especificado,100-500
+L1075,CTO,Telecommunications,No Especificado,100-500
+L1098,CTO,Cloud,No Especificado,100-500
+L1084,CTO,Financial,No Especificado,100-500
+L1087,Facility Manager,Cloud,No Especificado,100-500
+L1088,Facility Manager,Cloud,No Especificado,100-500
+L1005,Facility Manager,Financial,No Especificado,100-500
+L1047,Facility Manager,Financial,No Especificado,100-500
+L1101,Facility Manager,Telecommunications,No Especificado,1000+
+L1022,Infrastructure Director,Cloud,No Especificado,1000+
+L1092,Infrastructure Director,Financial,No Especificado,1000+
+L1025,Infrastructure Director,Financial,No Especificado,100-500
+L1063,Operations Director,Cloud,No Especificado,100-500
+L1015,Operations Director,Financial,No Especificado,500-1000
+L1012,Operations Director,Telecommunications,No Especificado,500-1000
