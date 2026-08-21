@@ -50,9 +50,13 @@ El producto final se divide en tres enfoques estratégicos de negocio:
  
 [​📊 Dashboard](https://public.tableau.com/views/Campana-B2B-DataCenters-F/Panel1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
-El equipo
+## El equipo
+
 Este proyecto fue desarrollado por un equipo multidisciplinario que combina análisis de datos, marketing B2B, automatización de procesos y diseño visual. Trabajamos de forma colaborativa para construir un producto de datos escalable y orientado a la toma de decisiones financieras, integrando tecnologías analíticas modernas y flujos automatizados para la generación de leads.
 
+---------------------------------------------------------------------------------------------------------------------------------------------------------
+
+## Stack tecnológico
 
 ### 📊 Análisis de Datos
 ![Claude](https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white)
